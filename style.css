@@ -1,0 +1,36 @@
+body {
+ background-image: url(background.png);
+	background-size: cover;
+	background-attachment:fixed ;
+} 
+.Navname {
+	animation: bounceInLeft;
+	animation-duration: 1s;
+}
+.Photo1 {
+	width: 80px;
+    padding: 5%;
+
+}
+
+.photo2 {
+    width: 2%;
+}
+
+.photo3 {
+    border-radius:10px;
+}
+
+.Welcome2 {
+	background: rgba(0%, 0%, 0%, .7);
+	border-radius: 10px;
+}
+
+.bg-yellow {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.medical {
+    display: inline-flex;
+}
